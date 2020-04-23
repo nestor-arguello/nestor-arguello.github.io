@@ -1,2 +1,2 @@
 # portfolio
-Néstor Argüello - Frontend Web Developer Portfolio
+Néstor Argüello - Frontend Developer Portfolio
